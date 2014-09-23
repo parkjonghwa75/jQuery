@@ -1,9 +1,5 @@
 ﻿/// <reference path="jquery.js" />
 
-
-
 if (jQuery){
-    console.log("Hello lesson2!");
+    $("#lesson-Header").show();
 }
-
-$(document).r
